@@ -1,1 +1,1 @@
-# stocktradingAppJava
+# StockTradingAppJava
